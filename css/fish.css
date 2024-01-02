@@ -13,3 +13,8 @@ ul {
     list-style-position: inside;    
     text-align: center;
 }
+
+img {
+    height: auto;
+    width: 200;
+}
