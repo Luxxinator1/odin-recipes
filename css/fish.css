@@ -3,3 +3,13 @@
     background-color: black;
     color: white;
 }
+
+ol {
+    list-style-position: inside;    
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;    
+    text-align: center;
+}

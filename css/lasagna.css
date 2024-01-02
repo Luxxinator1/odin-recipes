@@ -4,4 +4,17 @@
     color: white;
 }
 
+img {
+    height: auto;
+    width: 200;
+}
 
+ol {
+    list-style-position: inside;    
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;    
+    text-align: center;
+}
